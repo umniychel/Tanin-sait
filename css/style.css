@@ -82,7 +82,7 @@ body {
     transition: opacity .1s linear /* 10 мс задержка для элемента */
 }
 
-.nav__link:hover {
+.nav__link:hover { 
 	color: lightgreen; /* цвет при наведении */
 }
 
