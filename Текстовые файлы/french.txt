@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Френч</title>
+    <meta charset="UTF-8">
+    <link rel=”icon” type=”image/x-icon” href=”icons/favicon.ico”>
+    <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+    <link rel="icon" type="image/png" href="icons/icon.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+	<style> @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+    body {
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;	
+        font-size: 15px;
+        line-height: 1.6;
+        color: #333;
+        width: 100%;
+        max-width: 1920px;
+        margin: 0 auto;
+        background-color: #E0FFFF;
+        }
+    </style>
+</head>
+    
+<body>
+    <h1 align="center">Примеры маникюров с дизайном френч</h1>
+    <img src="https://fashioninsider.ru/wp-content/uploads/a/b/1/ab1a5a7f817d5e185191703a77d026fa.jpeg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://avon-wish.ru/wp-content/uploads/5/4/d/54d052bf504dca506debe68a2a79725e.jpeg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://privately.ru/manikyr/uploads/posts/2020-02/french-byvaet-raznyj-1.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://ladyneeds.ru/wp-content/uploads/2019/06/svadebnyj-manikyur-68-1080x1080.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://mykaleidoscope.ru/uploads/posts/2022-06/1655732542_10-mykaleidoscope-ru-p-manikyur-stupino-10.png" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://tvcenter.ru/wp-content/uploads/2022/02/scale_1200-15.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://avon-wish.ru/wp-content/uploads/0/6/3/063fc210e1e1b082dadcb2d6a1a78a68.jpeg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://ladyneeds.ru/wp-content/uploads/2022/07/15-13.jpg" hspace="60" vspace="50" height="350" width="350">
+
+</body>
+</html>

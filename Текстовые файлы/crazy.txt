@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Крейзи</title>
+    <meta charset="UTF-8">
+    <link rel=”icon” type=”image/x-icon” href=”icons/favicon.ico”>
+    <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+    <link rel="icon" type="image/png" href="icons/icon.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+	<style> @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+    body {
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;	
+        font-size: 15px;
+        line-height: 1.6;
+        color: #333;
+        width: 100%;
+        max-width: 1920px;
+        margin: 0 auto;
+        background-color: #E0FFFF;
+        }
+    </style>
+</head>
+    
+<body>
+    <h1 align="center">Примеры маникюров с дизайном крейзи</h1>
+    <img src="https://i.pinimg.com/originals/c3/f5/00/c3f500b68f89b20b3ee3830d4b73e61d.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://i.pinimg.com/originals/3a/82/ab/3a82ab6e146001bd3b0f179c9dd61271.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="http://klubmama.ru/uploads/posts/2022-08/1661471667_54-klubmama-ru-p-manikyur-podelka-foto-58.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://i.pinimg.com/originals/79/39/3b/79393bc09ff634a0c495f7266c9e9d3f.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="http://klublady.ru/uploads/posts/2022-02/1644180745_84-klublady-ru-p-amerikanskii-manikyur-foto-88.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="http://almode.ru/uploads/posts/2020-02/1581484866_41-p-sumasshedshii-manikyur-instagramm-60.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://o-tendencii.com/uploads/posts/2021-09/1630481544_135-o-tendencii-com-p-manikyur-na-nogti-molodezhnie-yarkie-143.jpg" hspace="60" vspace="50" height="350" width="350">
+    <img src="https://i.pinimg.com/736x/9d/79/d3/9d79d33d016e7a78ef553f42cd47d26e--almond-nails-designs-stiletto-nail-designs.jpg" hspace="60" vspace="50" height="350" width="350">
+
+</body>
+</html>
